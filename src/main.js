@@ -23,7 +23,7 @@ const fn = ()=>{
 
 const sum =()=>{
    const a =  fn()
-   console.log(a+'1321dasdasd2233');
+   console.log(a+'1321dasdasasdasdd2233');
 }
 
 fn()
